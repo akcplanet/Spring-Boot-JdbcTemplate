@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.secondDatasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.driverClassName'"
+  },
+  {
+    "name": "spring.secondDatasource.initialize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.initialize'"
+  },
+  {
+    "name": "spring.secondDatasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.password'"
+  },
+  {
+    "name": "spring.secondDatasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.username'"
+  },
+  {
+    "name": "server.tomcat.remote_ip_header",
+    "type": "java.lang.String",
+    "description": "A description for 'server.tomcat.remote_ip_header'"
+  },
+  {
+    "name": "server.tomcat.protocol_header",
+    "type": "java.lang.String",
+    "description": "A description for 'server.tomcat.protocol_header'"
+  },
+  {
+    "name": "security.require_ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'security.require_ssl'"
+  }
+]}
